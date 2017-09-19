@@ -1,6 +1,6 @@
 // ConsoleApplication1.cpp : Defines the entry point for the console application.
-//
-#include "stdafx.h"
+// This file contains my first git comments
+#include "stdafx.h" 
 #include "MyVector.h"
 #include "MyVectorTemplate.h"
 #include "Shape.h"
