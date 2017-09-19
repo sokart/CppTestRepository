@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+c:\users\skartaki\desktop\code\cpplessons\consoleapplication1\consoleapplication1\consoleapplication1.cpp(57): warning C4101: 'tid': unreferenced local variable
+c:\users\skartaki\desktop\code\cpplessons\consoleapplication1\consoleapplication1\consoleapplication1.cpp(120): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\skartaki\desktop\code\cpplessons\consoleapplication1\consoleapplication1\consoleapplication1.cpp(123): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\skartaki\desktop\code\cpplessons\consoleapplication1\consoleapplication1\consoleapplication1.cpp(133): warning C4101: 'exp': unreferenced local variable
+c:\users\skartaki\desktop\code\cpplessons\consoleapplication1\consoleapplication1\consoleapplication1.cpp(136): warning C4101: 'exp': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\skartaki\Desktop\Code\CPPlessons\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\skartaki\Desktop\Code\CPPlessons\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
